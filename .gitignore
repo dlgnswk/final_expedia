@@ -94,7 +94,7 @@ hs_err_pid*
 replay_pid*
 
 /final_expedia/target/
-/final_expedia/pom.xml
+*.xml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
