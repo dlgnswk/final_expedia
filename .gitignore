@@ -95,7 +95,8 @@ replay_pid*
 
 /final_expedia/target/
 /final_expedia/src/main/webapp/WEB-INF/spring/
-*.xml
+/final_expedia/src/main/webapp/WEB-INF/web.xml
+/final_expedia/pom.xml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
